@@ -72,9 +72,9 @@ public class MainPetugas extends AppCompatActivity {
                         break;
 
                     case R.id.ic_list:
-//                        Intent intent0 = new Intent(getApplicationContext(), PetugasListActivity.class);
-//                        startActivity(intent0);
-//                        finish();
+                        Intent intent0 = new Intent(getApplicationContext(), PetugasListActivity.class);
+                        startActivity(intent0);
+                        finish();
                         break;
                     case R.id.ic_logout:
                         showActionDialog();
