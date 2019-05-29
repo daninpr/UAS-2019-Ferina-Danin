@@ -5,6 +5,7 @@ import android.view.View;
 import android.widget.TextView;
 
 import com.ferinadanin.projectuas.Model.Pasien;
+import com.ferinadanin.projectuas.R;
 
 
 public class PasienViewHolder extends RecyclerView.ViewHolder  {
